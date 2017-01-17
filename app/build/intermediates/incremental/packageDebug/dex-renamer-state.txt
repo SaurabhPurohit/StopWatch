@@ -1,0 +1,7 @@
+#Tue Jan 17 15:16:41 IST 2017
+base.0=/home/ln-20/Documents/LNProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1fa0cc57f4d2b541d59e6bfe5c931e6bbc727a7b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/ln-20/Documents/LNProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b1415205ea0819c36a202eabaed8302400f59c33/classes.dex
+base.1=/home/ln-20/Documents/LNProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b1415205ea0819c36a202eabaed8302400f59c33
+file.0=/home/ln-20/Documents/LNProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1fa0cc57f4d2b541d59e6bfe5c931e6bbc727a7b/classes.dex

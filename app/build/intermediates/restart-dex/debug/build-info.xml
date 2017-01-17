@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="15024273905428"
+    token="1863101240976688736"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="55" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/ln-20/Documents/LNProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="14928072954942"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/ln-20/Documents/LNProjects/StopWatch/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="15024273905428"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/ln-20/Documents/LNProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
